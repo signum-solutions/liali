@@ -1,0 +1,9 @@
+.sidebar-profile li {
+	color: #fff;
+	cursor: pointer;
+}
+.pcoded[theme-layout="vertical"] .pcoded-navbar .pcoded-item>li>a .pcoded-mtext {
+	display: none;
+}
+
+
